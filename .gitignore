@@ -1,0 +1,7 @@
+*.idea
+*.DS_Store
+*.html
+LearningPytorch3D/.idea
+SingleViewTo3D/checkpoints
+SingleViewTo3D/implicit_checkpoints
+SingleViewTo3D/implicit_models/occnet/output
